@@ -4,7 +4,7 @@
 ### *I will code or learn Swift / iOS Development for at least an hour every day for the next 100 days.*
 
 #### Start Date
-[March 20, 2021] 🔥
+March 20, 2021 🔥
 
 ## Additional Rules
 1. I will tweet [@suwardhanaa](https://twitter.com/suwardhanaa) about my progress every day -> using the hashtag #100DaysOfCode
