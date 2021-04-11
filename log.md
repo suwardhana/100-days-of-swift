@@ -8,6 +8,6 @@
 
 ### Day 2: 11 April 2021
 
-**Today's Progress**: belajar navigation controller, button, bisa taruh di navbar dan toolbar
+**Today's Progress**: belajar navigation controller, button, bisa taruh di navbar dan toolbar, belajar day 1 dari hackingwithswift
 
 **Thoughts:** ternyata motivasi yang paling penting adalah dari diri sendiri, bismillah day 2/100
