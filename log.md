@@ -8,6 +8,6 @@
 
 ### Day 2: 11 April 2021
 
-**Today's Progress**: belajar navigation controller, button,
+**Today's Progress**: belajar navigation controller, button, bisa taruh di navbar dan toolbar
 
 **Thoughts:** ternyata motivasi yang paling penting adalah dari diri sendiri, bismillah day 2/100
