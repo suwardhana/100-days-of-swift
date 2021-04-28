@@ -11,3 +11,9 @@
 **Today's Progress**: belajar navigation controller, button, bisa taruh di navbar dan toolbar, belajar day 1 dari hackingwithswift
 
 **Thoughts:** ternyata motivasi yang paling penting adalah dari diri sendiri, bismillah day 2/100
+
+### Day 3: 28 April 2021
+
+**Today's Progress**: belajar dari app Unwrap, back to basic lagi, nonton WWDC SwiftUI yang tentang sandwich, ada NavigationView, Spacer, .navigationTitle
+
+**Thoughts:** astaga, sulitnya buat habit baru, bismillah day 3/100
